@@ -1,4 +1,6 @@
-﻿# Study-Notion
+﻿# Study-Notion - An Ed-Tech Platform Website(MERN app) https://study-notion-ed-tech-platform.vercel.app
+ ![image](https://github.com/souvik987/Study-Notion/assets/93041744/c4a9281c-f0c9-48cd-addf-ec1c2beb8923)
+
 # Project Description
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
 and rate educational content. The platform is built using the MERN stack, which includes
