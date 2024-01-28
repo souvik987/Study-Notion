@@ -29,7 +29,7 @@ import VideoDetails from './components/core/ViewCourse/VideoDetails';
 import Instructor from './components/core/Dashboard/InstructorDashboard/Instructor';
 
 function App() {
-
+  console.log = function () {};
   const {user} = useSelector((state) => state.profile)
   return (
    <div className='w-screen min-h-screen bg-richblack-900 flex flex-col font-inter'>
